@@ -2,7 +2,7 @@ body{
 
           margin: 0;
         padding: 0;
-        background: url(tas.PNG);
+        background: url(styles/tas.PNG);
         background position: center ;
         font-family: sans-serif;
        background-attachment: fixed;
